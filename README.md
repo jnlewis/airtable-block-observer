@@ -17,6 +17,9 @@ This block is not yet publicly released and is currently in closed beta testing 
 * **Expandable Events**: Events in the Activity Feed are expandable to allow viewing the details of a record.
 * **Easy setup**: Just installing the block will automatically start tracking changes, no configuration required. All tables are automatically tracked by default unless turned off in settings.
 
+# Current Limitations
+Currently tracking is not available for changes made on the expanded record popup window and kanban board drag and drop.
+
 # Block Demo
 
 Our example will use a small shoe reseller who is managing their stock inventory on Airtable for three locations; their main warehouse and two walk-in stores.
@@ -49,5 +52,3 @@ Control which tables to watch or unwatch in the block settings. All tables are w
 
 ![Settings](https://github.com/jnlewis/airtable-block-observer/blob/master/media/settings.gif?raw=true)
 
-# Current Limitations
-Currently tracking is not available for changes made on the expanded record popup window and kanban board drag and drop.
