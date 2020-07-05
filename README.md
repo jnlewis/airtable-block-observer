@@ -11,15 +11,15 @@ This block is not yet publicly released and is currently in closed beta testing 
 # Features
 
 * **Automatic Activity Tracking**: All changes to any tables are automatically tracked for new record creation, updates on existing records, and record deletion.
-* **Selective Table Tracking**: Collaborators can select which tables to track or untrack in block settings.
+* **Selective Table Tracking**: Collaborators can select which tables to track or untrack in the block settings.
 * **Multi-user Collaboration**: Events are shared across all collaborators who have the block installed.
-* **Filterable Activity Viewer**: Collaborators can customize their own Activity Feed by selectively viewing activities from a particular table or view.
-* **Expandable Events**: Events in the Activity Feed are expandable to allow a collaborator to view details of a record.
+* **Filterable Activity Viewer**: Collaborators can customize their own Activity Feed by selectively viewing activities from a particular table.
+* **Expandable Events**: Events in the Activity Feed are expandable to allow viewing the details of a record.
 * **Easy setup**: Just installing the block will automatically start tracking changes, no configuration required. All tables are automatically tracked by default unless turned off in settings.
 
 # Block Demo
 
-Our example will use a small shoes reseller who is managing their stock inventory on Airtable for three locations: their main warehouse and two walk-in stores.
+Our example will use a small shoe reseller who is managing their stock inventory on Airtable for three locations; their main warehouse and two walk-in stores.
 
 **Tracking Activity**
 
